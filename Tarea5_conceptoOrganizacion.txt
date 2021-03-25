@@ -1,0 +1,3 @@
+Una organizacion es la forma en la que se relacionan o interactuan personas fungiendo una responsabilidad y asi poder alcanzar las metas de la empresa u objetivos en comun.
+Ejemplos de Organizaciones serian partidos politicos, hospitales, talleres,etc.Donde existe dentro un organigrama que delega las diferentes responsabilidades de los individuos que lo conforman.
+Un ejemplo en un Centro de computo seria una Jerarquia donde la cabeza seria el area gerencial o directiva y de ahi desprender los roles como los tecnicos, los administrativos, programadores,etc.
