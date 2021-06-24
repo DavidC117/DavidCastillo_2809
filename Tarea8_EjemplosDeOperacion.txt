@@ -1,0 +1,23 @@
+Tarea 8.- Operación de un centro de computo.
+
+-Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos.
+Ejemplo: Si en la empresa donde trabajas esta establecido que cierto dia se haga un respaldo de toda la informacion, se tiene que hacer el respaldo y con lso parametros ya preestablecidos.
+de toda la informacion el domingo sin falta
+
+-Llevar registros de fallas, problemas, soluciones, acciones desarrolladas, respaldos, recuperaciones y trabajos realizados.
+Ejemplo:Tener informes detallados de lo que sucede dentro del centro de computo y asi poder tener un mejor control y manejo del mismo.
+Un registro del personal que use algun servicio del centro para detectar quien pude ser el culpable de algun fallo o irregularidas.
+
+-Realizar labores de mantenimiento y limpieza de los equipos del centro de cómputo.
+Ejemplo: Todo aparato Electrico necesita de una limpieza y prueba de rendimiento constante para alargar su periodo de vida y proporcioanr un servicio funcional e higienico.
+Abrir un CPU y remover el polvo con aire comprimido, cambiar el toner de una impresora o actualizar software so nejemplos de este punto.
+
+-Aplicar en forma estricta las normas de seguridad y control establecidas.
+Ejemplo: Seguir las regulaciones que deben tener al estar en el centro de computo puede ayudar a garantizar un mejor uso del mismo y disminuir 
+la probabilidad de un percance.
+No tener bebidas ni comidas dentro del centro de computo, no descargar software de sitios no autorizados, No permitir personal no autorizado haga una copia
+de archivos son ejemplos de este punto.
+
+-Velar porque el sistema computarizado se mantenga funcionando apropiadamente y estar vigilante para detectar y corregir fallas en el mismo.
+Este punto viene complementario con el de mantenimiento, ya que solo es mantener informes de estado sobre los sistemas computarizados
+y atender a su mantenimiento lo mas pronto se detecte una falla o irregularidad y conseguir un funcionamineto continuo del centro de computo
